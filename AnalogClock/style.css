@@ -74,3 +74,11 @@ body{
     top: 48%;
     left: 47%;
 }
+.digi {
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin: 10px;
+    font-size: 4rem;
+    color: rgb(79, 8, 114);
+}
